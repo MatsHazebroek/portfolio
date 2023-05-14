@@ -1,33 +1,9 @@
 function Contact() {
     return (
         <>
-            {/* <div className="flex flex-col items-center justify-center min-h-screen py-2">
-            <h1 className="text-5xl font-bold">Contact</h1>
-            <p className="mt-3 text-2xl text-white">Mats Hazebroek</p>
-            <p className="mt-3 text-xl">
-                <a href="mailto:matshazebroek@gmail.com" className="text-white hover:text-gray-400 transition duration-300">
-                    matshazebroek@gmail.com
-                </a>
-            </p>
-            <p className="mt-3 text-xl">
-                <a href="tel:+31612345678" className="text-white hover:text-gray-400 transition duration-300">
-                    +31 6 12345678
-                </a>
-            </p>
-            <p className="mt-3 text-xl">
-                <a href="https://www.linkedin.com/in/mats-hazebroek-44a345265/" className="text-white hover:text-gray-400 transition duration-300" target="_blank">
-                    LinkedIn
-                </a>
-            </p>
-            <p className="mt-3 text-xl">
-                <a href="https://github.com/MatsHazebroek" className="text-white hover:text-gray-400 transition duration-300" target="_blank">
-                    GitHub
-                </a>
-            </p>
-        </div> */}
             <footer
-                className="bg-neutral-100 text-center text-neutral-600 lg:text-left ">
-
+                className="bg-neutral-100 text-center text-neutral-600 lg:text-left " id="contact">
+                
                 <div className="mx-6 py-10 text-center md:text-left">
                     <div className="grid-1 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
                         <div></div>

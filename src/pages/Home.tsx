@@ -27,7 +27,7 @@ function Home() {
 							<span>LinkedIn</span>
 						</a>
 						<a
-							href="#"
+							href="https://github.com/MatsHazebroek"
 							className="bg-gray-800 hover:bg-gray-900 text-white font-bold py-2 px-4 rounded flex items-center space-x-2"
                             target="_blank"
 						>
@@ -35,7 +35,7 @@ function Home() {
 							<span>Github</span>
 						</a>
 						<a
-							href="#"
+							href="../assets/cv.pdf"
 							className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded flex items-center space-x-2"
                             download
 						>
