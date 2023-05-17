@@ -12,7 +12,7 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mats hazebroek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mats hazebroek" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mats hazebroek](https://www.linkedin.com/in/mats-hazebroek-44a345265/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mats hazebroek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Talen en Tools:</h3>
