@@ -62,7 +62,7 @@ function Contact() {
                                     </a>
                                 </p>
                             </p>
-                            <p className="mb-4 flex items-center justify-center md:justify-start">
+                            {/* <p className="mb-4 flex items-center justify-center md:justify-start">
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
                                     viewBox="0 0 24 24"
@@ -74,11 +74,11 @@ function Contact() {
                                         clip-rule="evenodd" />
                                 </svg>
                                 <p className="">
-                                    <a href="tel:+31612345678" className="hover:text-gray-400 transition duration-300">
-                                        +31 6 12345678
+                                    <a href="tel:+31606195196" className="hover:text-gray-400 transition duration-300">
+                                        +31 6 19519626
                                     </a>
                                 </p>
-                            </p>
+                            </p> */}
                         </div>
                     </div>
                 </div>

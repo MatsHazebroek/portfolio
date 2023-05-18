@@ -37,10 +37,10 @@ function Home() {
 						<a
 							href="../assets/cv.pdf"
 							className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded flex items-center space-x-2"
-                            download
+							target="_blank"
 						>
 							<AiOutlineFilePdf />
-							<span>Download CV</span>
+							<span>Bekijk CV</span>
 						</a>
 					</div>
 				</div>
@@ -48,7 +48,7 @@ function Home() {
 
 			<Projects />
 
-			<Contact />
+			{/* <Contact /> */}
 		</>
 	);
 }
