@@ -11,7 +11,7 @@ function index() {
                 <nav className="flex items-center">
                     <a href="#" className="ml-6 hover:text-gray-400 transition duration-300">Home</a>
                     <a href="#projecten" className="ml-6 hover:text-gray-400 transition duration-300">Projecten</a>
-                    <a href="#contact" className="ml-6 hover:text-gray-400 transition duration-300">Contact</a>
+                    <a href="#informatie" className="ml-6 hover:text-gray-400 transition duration-300">Informatie</a>
                 </nav>
                 <div className="flex items-center">
                     <a href="https://www.linkedin.com/in/mats-hazebroek-44a345265/" className="mr-6 hover:text-gray-400 transition duration-300" target="_blank">

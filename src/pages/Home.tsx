@@ -1,4 +1,4 @@
-import Contact from "./Contact";
+import Informatie from "./Informatie";
 import Projects from "./Projects";
 import { AiFillGithub, AiFillLinkedin, AiOutlineFilePdf } from "react-icons/ai";
 
@@ -48,7 +48,7 @@ function Home() {
 
 			<Projects />
 
-			{/* <Contact /> */}
+			<Informatie />
 		</>
 	);
 }

@@ -104,7 +104,7 @@ function Projects() {
 					</div>
 				</div>
 
-				<div className="container mx-auto py-8 h-screen mt-20">
+				<div className="container mx-auto py-8 mt-20">
 					<h1 className="text-4xl font-bold mb-8 text-center">
 						Projecten in bouw
 					</h1>
@@ -118,7 +118,7 @@ function Projects() {
 							</p>
 							<div className="mt-4 flex justify-between">
 								<a
-									href="#"
+									href="#!"
 									className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded flex items-center space-x-2"
 								>
 									Voorbeeld Link (niet beschikbaar)
@@ -142,7 +142,7 @@ function Projects() {
 							</p>
 							<div className="mt-4 flex justify-between">
 								<a
-									href="#"
+									href="#!"
 									className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded flex items-center space-x-2"
 								>
 									Voorbeeld Link (niet beschikbaar)
