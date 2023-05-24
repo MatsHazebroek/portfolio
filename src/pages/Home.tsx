@@ -6,7 +6,7 @@ function Home() {
 	return (
 		<>
 			<div className="flex justify-center items-center h-screen">
-				<div className="flex flex-col items-start w-1/2 px-8">
+				<div className="flex flex-col items-start w-1/2 px-8 md:mt-10">
 					<h1 className="text-3xl font-bold mb-4 mt-20">
 						Hallo ik ben Mats Hazebroek
 					</h1>
@@ -20,7 +20,7 @@ function Home() {
 					<div className="flex flex-row justify-center flex-wrap gap-4">
 						<a
 							href="https://www.linkedin.com/in/mats-hazebroek-44a345265/"
-							className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded flex items-center space-x-2"
+							className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded flex items-center text-center space-x-2"
 							target="_blank"
 						>
 							<AiFillLinkedin />
@@ -28,7 +28,7 @@ function Home() {
 						</a>
 						<a
 							href="https://github.com/MatsHazebroek"
-							className="bg-gray-800 hover:bg-gray-900 text-white font-bold py-2 px-4 rounded flex items-center space-x-2"
+							className="bg-gray-800 hover:bg-gray-900 text-white font-bold py-2 px-4 rounded flex items-center text-center space-x-2"
 							target="_blank"
 						>
 							<AiFillGithub />
@@ -36,7 +36,7 @@ function Home() {
 						</a>
 						<a
 							href="../assets/cv.pdf"
-							className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded flex items-center space-x-2"
+							className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded flex items-center text-center space-x-2"
 							target="_blank"
 						>
 							<AiOutlineFilePdf />

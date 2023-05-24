@@ -38,7 +38,7 @@ function Contact() {
 					</div>
 
 					<div className="flex items-center justify-center mx-6 py-10 text-center md:text-left">
-						<div className="grid-1 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
+						<div className="flex flex-row flex-wrap justify-center items-center gap-8">
 							<div className="">
 								<h6 className="mb-4 flex justify-center font-semibold uppercase md:justify-start">
 									Linkjes
@@ -57,14 +57,6 @@ function Contact() {
 										className="text-neutral-600 hover:text-gray-400 transition duration-300"
 									>
 										Projecten
-									</a>
-								</p>
-								<p className="mb-4">
-									<a
-										href="#contact"
-										className="text-neutral-600 hover:text-gray-400 transition duration-300"
-									>
-										Informatie
 									</a>
 								</p>
 							</div>
