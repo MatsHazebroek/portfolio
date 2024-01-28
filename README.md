@@ -2,9 +2,9 @@
 <h3 align="center">Ik ben Mats Hazebroek uit Zoetermeer. Ben 18 jaar. In Rotterdam volg ik de opleiding voor Software Devlopment op het Grafisch Lyceum Rotterdam. Naast mijn opleiding werk ik bij de Hoogvliet als vulploegmedewerker. Dit doe ik ruim 4,5 jaar. In mijn vrije tijd programmeer ik graag en speel graag games.</h3>
 <br>
 
-- 🔭 Momenteel werk ik aan verschillende projecten **Chat-app, Todo-app, Smart Chef**
+- 🔭 Momenteel ben ik stage aan het lopen bij **TerraIndex**
 
-- 🌱 Momenteel ben ik de volgende dingen aan het leren **GraphQL, Docker**
+- 🌱 Momenteel ben ik de volgende dingen aan het leren **Vue, Typescript**
 
 - 👨‍💻 Al mijn projecten kan je hier vinden [matshazebroek.nl](matshazebroek.nl)
 
