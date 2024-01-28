@@ -11,10 +11,10 @@ function Home() {
 						Hallo ik ben Mats Hazebroek
 					</h1>
 					<p className="mb-4 md:w-80">
-						Ik ben Mats Hazebroek uit Zoetermeer. Ben 17 jaar. In Rotterdam volg
+						Ik ben Mats Hazebroek uit Zoetermeer. Ben 18 jaar. In Rotterdam volg
 						ik de opleiding voor Software Devlopment op het Grafisch Lyceum
 						Rotterdam. Naast mijn opleiding werk ik bij de Hoogvliet als
-						vulploegmedewerker. Dit doe ik ruim 3,5 jaar. In mijn vrije tijd
+						vulploegmedewerker. Dit doe ik ruim 4,5 jaar. In mijn vrije tijd
 						programmeer ik graag en speel graag games
 					</p>
 					<div className="flex flex-row justify-center flex-wrap gap-4">
