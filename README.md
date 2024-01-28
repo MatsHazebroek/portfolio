@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, Ik ben Mats</h1>
-<h3 align="center">Ik ben Mats Hazebroek uit Zoetermeer. Ben 17 jaar. In Rotterdam volg ik de opleiding voor Software Devlopment op het Grafisch Lyceum Rotterdam. Naast mijn opleiding werk ik bij de Hoogvliet als vulploegmedewerker. Dit doe ik ruim 3,5 jaar. In mijn vrije tijd programmeer ik graag en speel graag games.</h3>
+<h3 align="center">Ik ben Mats Hazebroek uit Zoetermeer. Ben 18 jaar. In Rotterdam volg ik de opleiding voor Software Devlopment op het Grafisch Lyceum Rotterdam. Naast mijn opleiding werk ik bij de Hoogvliet als vulploegmedewerker. Dit doe ik ruim 4,5 jaar. In mijn vrije tijd programmeer ik graag en speel graag games.</h3>
 <br>
 
 - 🔭 Momenteel werk ik aan verschillende projecten **Chat-app, Todo-app, Smart Chef**
